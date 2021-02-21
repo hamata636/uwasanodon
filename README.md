@@ -62,29 +62,36 @@ body::before {
 <h1><span class="yellow"><marquee behavior="alternate">!!! 久々にご近所で犬の散歩していてら、住宅街の中にお持ち帰りの丼屋さんができてました !!!</marquee></span></h1>
 
 
-<h3><span class="blue">メニューを見ていたら、一家総出でお出迎え</span></h3
+<h3><span class="blue">メニューを見ていたら、一家総出でお出迎え</span></h3>
 
 <a href="20210221_001.JPG" data-lightbox="abc"><img src="20210221_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210221_002.JPG" data-lightbox="abc"><img src="20210221_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210221_003.JPG" data-lightbox="abc"><img src="20210221_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210221_004.JPG" data-lightbox="abc"><img src="20210221_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210221_005.JPG" data-lightbox="abc"><img src="20210221_005.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="blue">2月の営業カレンダー</span></h3>
 <a href="20210221_006.JPG" data-lightbox="abc"><img src="20210221_006.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 
-
-<br><br>
-
-<script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
-<script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
-<script src="https://torokoid.github.io/shiba/my.js"></script> 
 
 <!-- フッタ -->
  <footer>
  Copyright 2021/02/21 S.Hada
  </footer>
+ 
+ <!--HPにさまざまなJavaScriptを呼び込むための書式-->
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
+
+<script type='text/javascript' src='https://globalsps.mds.honda.com/sites/jphgt38/Shared%20Documents/jquery.js?ver=1.12.4'></script> 
+<script src="https://globalsps.mds.honda.com/sites/jphgt38/Shared%20Documents/jquery.goup.min.js"></script> 
+<script src="https://globalsps.mds.honda.com/sites/jphgt38/Shared%20Documents/my.js"></script>
+
+
+</body>
+
+</html>
