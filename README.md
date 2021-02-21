@@ -134,7 +134,7 @@ a.p:hover span {
 <h3><span class="blue">2月の営業カレンダー</span></h3>
 <a href="20210221_006.JPG" data-lightbox="abc"><img src="20210221_006.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="blue">最後になりましたが、噂に丼のHPリンク↓</span></h3>
+<h3><span class="blue">最後になりましたが、噂の丼、HPリンク↓</span></h3>
 <a href="https://omochikaeri.com/r/ZARRaHwXOdswhGm3EMCK" target="_blank" rel="noopener noreferrer">https://omochikaeri.com/r/ZARRaHwXOdswhGm3EMCK</a>
 <br>
 <h3><span class="blue">このお店のシステムは全国展開されている様ですね↓</span></h3>
