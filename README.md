@@ -136,6 +136,9 @@ a.p:hover span {
 
 <h3><span class="blue">最後になりましたが、噂の丼、HPリンク↓</span></h3>
 <a href="https://omochikaeri.com/r/ZARRaHwXOdswhGm3EMCK" target="_blank" rel="noopener noreferrer">https://omochikaeri.com/r/ZARRaHwXOdswhGm3EMCK</a>
+
+<h3><span class="blue">BAGEL用のHPもありました。HPリンク↓</span></h3>
+<a href="https://omochikaeri.com/r/HwC5a9XcY3zgIES41tBT" target="_blank" rel="noopener noreferrer">https://omochikaeri.com/r/HwC5a9XcY3zgIES41tBT</a>
 <br>
 <h3><span class="blue">このお店のシステムは全国展開されている様ですね↓</span></h3>
 <a href="https://omochikaeri.com/" target="_blank" rel="noopener noreferrer">https://omochikaeri.com/</a>
