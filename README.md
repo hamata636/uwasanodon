@@ -122,7 +122,8 @@ a.p:hover span {
 <a href="20210221_001.JPG" data-lightbox="abc"><img src="20210221_001.JPG" alt="サンプル画像" width="900" /></a>
 <br>
 <h3><span class="blue">同じ場所に英語の塾も併設されていて、奥様が英語の先生です<br>英語塾のHPリンク↓</span></h3>
-<p><a href="https://www.willenglish.jp/">https://www.willenglish.jp/</a>
+	
+<a href="https://www.willenglish.jp/" target="_blank" rel="noopener noreferrer">https://www.willenglish.jp/</a>
 <a href="20210221_002.JPG" data-lightbox="abc"><img src="20210221_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210221_003.JPG" data-lightbox="abc"><img src="20210221_003.JPG" alt="サンプル画像" width="900" /></a>
 	
@@ -134,7 +135,10 @@ a.p:hover span {
 <a href="20210221_006.JPG" data-lightbox="abc"><img src="20210221_006.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="blue">最後になりましたが、噂に丼のHPリンク↓</span></h3>
-<p><a href="https://omochikaeri.com/r/ZARRaHwXOdswhGm3EMCK">https://omochikaeri.com/r/ZARRaHwXOdswhGm3EMCK</a>
+<a href="https://omochikaeri.com/r/ZARRaHwXOdswhGm3EMCK" target="_blank" rel="noopener noreferrer">https://omochikaeri.com/r/ZARRaHwXOdswhGm3EMCK</a>
+<br>
+<h3><span class="blue">このお店のシステムは全国展開されている様ですね↓</span></h3>
+<a href="https://omochikaeri.com/" target="_blank" rel="noopener noreferrer">https://omochikaeri.com/</a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
