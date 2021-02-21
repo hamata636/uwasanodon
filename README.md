@@ -120,16 +120,21 @@ a.p:hover span {
 <h3><span class="blue">メニューを見ていたら、一家総出でお出迎え</span></h3>
 
 <a href="20210221_001.JPG" data-lightbox="abc"><img src="20210221_001.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="blue">同じ場所に英語の塾も併設されていて、奥様が英語の先生です<br>英語塾のHPリンク</span></h3>
+<br>
+<h3><span class="blue">同じ場所に英語の塾も併設されていて、奥様が英語の先生です<br>英語塾のHPリンク↓</span></h3>
 <p><a href="https://www.willenglish.jp/">https://www.willenglish.jp/</a>
 <a href="20210221_002.JPG" data-lightbox="abc"><img src="20210221_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210221_003.JPG" data-lightbox="abc"><img src="20210221_003.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="blue">しばらくするとBAGLEの販売も始めるそうです</span></h3>
 <a href="20210221_004.JPG" data-lightbox="abc"><img src="20210221_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210221_005.JPG" data-lightbox="abc"><img src="20210221_005.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="blue">2月の営業カレンダー</span></h3>
 <a href="20210221_006.JPG" data-lightbox="abc"><img src="20210221_006.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="blue">最後になりましたが、噂に丼のHPリンク↓</span></h3>
+<p><a href="https://omochikaeri.com/r/ZARRaHwXOdswhGm3EMCK">https://omochikaeri.com/r/ZARRaHwXOdswhGm3EMCK</a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
