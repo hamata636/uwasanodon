@@ -112,7 +112,7 @@ a.p:hover span {
     
 <!--ここまでは定型文としてそのままコピペして再利用します-->
 
-<p align="left"> <img src="uwasanidon.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_uwasanidon.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 久々にご近所で犬の散歩していてら、住宅街の中にお持ち帰りの丼屋さんができてました !!!</marquee></span></h1>
 
