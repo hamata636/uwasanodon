@@ -59,11 +59,10 @@ body::before {
   より見やすくご覧頂けます。
 </p>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2019年4月22日(月)平成最後の安否確認会の記録＠牡蠣ビストロ貝殻荘(飯田橋) !!!</marquee></span></h1>
-<div style="background-color:rgb(255,255,255,0.3);”>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 久々にご近所で犬の散歩していてら、住宅街の中にお持ち帰りの丼屋さんができてました !!!</marquee></span></h1>
 
 
-<h3><span class="white">緑川さん提供、小さなカメラからのスナップ↓</span></h3>
+<h3><span class="blue">メニューを見ていたら、一家総出でお出迎え</span></h3
 
 <a href="20210221_001.JPG" data-lightbox="abc"><img src="20210221_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210221_002.JPG" data-lightbox="abc"><img src="20210221_002.JPG" alt="サンプル画像" width="900" /></a>
@@ -73,7 +72,7 @@ body::before {
 <a href="20210221_006.JPG" data-lightbox="abc"><img src="20210221_006.JPG" alt="サンプル画像" width="900" /></a>
 
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
