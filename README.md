@@ -127,7 +127,7 @@ a.p:hover span {
 <a href="20210221_002.JPG" data-lightbox="abc"><img src="20210221_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210221_003.JPG" data-lightbox="abc"><img src="20210221_003.JPG" alt="サンプル画像" width="900" /></a>
 	
-<h3><span class="blue">しばらくするとBAGLEの販売も始めるそうです</span></h3>
+<h3><span class="blue">しばらくするとBAGELの販売も始めるそうです</span></h3>
 <a href="20210221_004.JPG" data-lightbox="abc"><img src="20210221_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210221_005.JPG" data-lightbox="abc"><img src="20210221_005.JPG" alt="サンプル画像" width="900" /></a>
 
