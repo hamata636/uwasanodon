@@ -112,12 +112,16 @@ a.p:hover span {
     
 <!--ここまでは定型文としてそのままコピペして再利用します-->
 
+
+
 <h1><span class="yellow"><marquee behavior="alternate">!!! 久々にご近所で犬の散歩していてら、住宅街の中にお持ち帰りの丼屋さんができてました !!!</marquee></span></h1>
 
 
 <h3><span class="blue">メニューを見ていたら、一家総出でお出迎え</span></h3>
 
 <a href="20210221_001.JPG" data-lightbox="abc"><img src="20210221_001.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="blue">同じ場所に英語の塾も併設されていて、奥様が英語の先生です<br>英語塾のHPリンク</span></h3>
+<p><a href="https://www.willenglish.jp/">https://www.willenglish.jp/</a>
 <a href="20210221_002.JPG" data-lightbox="abc"><img src="20210221_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210221_003.JPG" data-lightbox="abc"><img src="20210221_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210221_004.JPG" data-lightbox="abc"><img src="20210221_004.JPG" alt="サンプル画像" width="900" /></a>
