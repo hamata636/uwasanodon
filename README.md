@@ -121,7 +121,7 @@ a.p:hover span {
 
 <a href="20210221_001.JPG" data-lightbox="abc"><img src="20210221_001.JPG" alt="サンプル画像" width="900" /></a>
 <br>
-<h3><span class="blue">同じ場所に英語の塾も併設されていて、奥様が英語の先生です<br>英語塾のHPリンク↓</span></h3>
+<h3><span class="blue">同じ場所に英語の塾も併設されていて、奥様が英語塾の先生です<br>英語塾のHPリンク↓</span></h3>
 	
 <a href="https://www.willenglish.jp/" target="_blank" rel="noopener noreferrer">https://www.willenglish.jp/</a>
 <a href="20210221_002.JPG" data-lightbox="abc"><img src="20210221_002.JPG" alt="サンプル画像" width="900" /></a>
