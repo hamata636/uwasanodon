@@ -134,12 +134,15 @@ a.p:hover span {
 <h3><span class="blue">2月の営業カレンダー</span></h3>
 <a href="20210221_006.JPG" data-lightbox="abc"><img src="20210221_006.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="blue">一押しの「からあげ丼」</span></h3>
+<h3><span class="blue">一押しの「からあげ丼」いただきました。プリッとしたから揚げが絶品です。</span></h3>
 <a href="20210221_009.JPG" data-lightbox="abc"><img src="20210221_009.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="blue">ご近所の可愛らしいお客さん</span></h3>
-<a href="20210221_010.JPG" data-lightbox="abc"><img src="20210221_010.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="blue">商品の受け渡し口</span></h3>
 <a href="20210221_011.JPG" data-lightbox="abc"><img src="20210221_011.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="blue">ご近所からお使いの可愛らしい姉妹のお客さん</span></h3>
+<a href="20210221_010.JPG" data-lightbox="abc"><img src="20210221_010.JPG" alt="サンプル画像" width="900" /></a>
+
 
 <h3><span class="blue">最後になりましたが、噂の丼、HPリンク↓</span></h3>
 <a href="https://omochikaeri.com/r/ZARRaHwXOdswhGm3EMCK" target="_blank" rel="noopener noreferrer">https://omochikaeri.com/r/ZARRaHwXOdswhGm3EMCK</a>
