@@ -137,7 +137,7 @@ a.p:hover span {
 <h3><span class="blue">一押しの「からあげ丼」いただきました。プリッとしたから揚げが絶品です。</span></h3>
 <a href="20210221_009.JPG" data-lightbox="abc"><img src="20210221_009.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="blue">商品の受け渡し口</span></h3>
+<h3><span class="blue">商品の受け渡し窓口</span></h3>
 <a href="20210221_011.JPG" data-lightbox="abc"><img src="20210221_011.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="blue">ご近所からお使いの可愛らしい姉妹のお客さん</span></h3>
