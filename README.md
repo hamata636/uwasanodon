@@ -132,10 +132,12 @@ a.p:hover span {
 <a href="20210221_005.JPG" data-lightbox="abc"><img src="20210221_005.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="blue">3月の営業カレンダー</span></h3>
-<a href="20210225_001.JPG" data-lightbox="abc"><img src="20210225_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210228_001.JPG" data-lightbox="abc"><img src="20210228_001.JPG" alt="サンプル画像" width="900" /></a>
 
+<!--
 <h3><span class="blue">2月の営業カレンダー</span></h3>
 <a href="20210221_006.JPG" data-lightbox="abc"><img src="20210221_006.JPG" alt="サンプル画像" width="900" /></a>
+-->
 
 <h3><span class="blue">一押しの「からあげ丼」いただきました。プリッとしたから揚げが絶品です。</span></h3>
 <a href="20210221_009.JPG" data-lightbox="abc"><img src="20210221_009.JPG" alt="サンプル画像" width="900" /></a>
