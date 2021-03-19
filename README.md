@@ -148,6 +148,9 @@ a.p:hover span {
 <h3><span class="blue">ご近所からお使いの可愛らしい姉妹のお客さん。</span></h3>
 <a href="20210221_010.JPG" data-lightbox="abc"><img src="20210221_010.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="blue">注文予約用の用紙と投函ポストが設置されました。</span></h3>
+<a href="20210319_001.JPG" data-lightbox="abc"><img src="20210319_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210319_002.JPG" data-lightbox="abc"><img src="20210319_002.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="blue">最後になりましたが、噂の丼、HPリンク↓</span></h3>
 <a href="https://omochikaeri.com/r/ZARRaHwXOdswhGm3EMCK" target="_blank" rel="noopener noreferrer">https://omochikaeri.com/r/ZARRaHwXOdswhGm3EMCK</a>
