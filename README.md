@@ -131,6 +131,9 @@ a.p:hover span {
 <a href="20210221_004.JPG" data-lightbox="abc"><img src="20210221_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210221_005.JPG" data-lightbox="abc"><img src="20210221_005.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="blue">BAGELの販売予告が出ました。</span></h3>
+<a href="20210320_001.JPG" data-lightbox="abc"><img src="20210320_001.JPG" alt="サンプル画像" width="900" /></a>
+
 <h3><span class="blue">3月の営業カレンダー</span></h3>
 <a href="20210228_001.JPG" data-lightbox="abc"><img src="20210228_001.JPG" alt="サンプル画像" width="900" /></a>
 
