@@ -140,7 +140,7 @@ a.p:hover span {
 <h3><span class="blue">4月の営業カレンダー</span></h3>
 <a href="20210331_002.JPG" data-lightbox="abc"><img src="20210331_002.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="blue">かき氷も始まります！</span></h3>
+<h3><span class="blue">ソフトドリンクと、かき氷も始まりまるそうです！</span></h3>
 <a href="20210331_001.JPG" data-lightbox="abc"><img src="20210331_001.JPG" alt="サンプル画像" width="900" /></a>
 
 <!--
