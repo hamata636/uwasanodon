@@ -161,7 +161,10 @@ a.p:hover span {
 <a href="20210319_001.JPG" data-lightbox="abc"><img src="20210319_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210319_002.JPG" data-lightbox="abc"><img src="20210319_002.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="blue">最後になりましたが、噂の丼、HPリンク↓</span></h3>
+<h3><span class="blue">最後になりましたが、噂の丼、オリジナルHPリンク↓</span></h3>
+<a href="http://www.uwasanodon.com/" target="_blank" rel="noopener noreferrer">hhttp://www.uwasanodon.com/</a>
+
+<h3><span class="blue">噂の丼、HPリンク↓</span></h3>
 <a href="https://omochikaeri.com/r/ZARRaHwXOdswhGm3EMCK" target="_blank" rel="noopener noreferrer">https://omochikaeri.com/r/ZARRaHwXOdswhGm3EMCK</a>
 
 <h3><span class="blue">BAGEL用のHPもありました。HPリンク↓</span></h3>
