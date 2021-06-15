@@ -137,8 +137,8 @@ a.p:hover span {
 <h3><span class="blue">3月の営業カレンダー</span></h3>
 <a href="20210228_001.JPG" data-lightbox="abc"><img src="20210228_001.JPG" alt="サンプル画像" width="900" /></a>
 -->
-<h3><span class="blue">5月の営業カレンダー</span></h3>
-<a href="20210501_001.JPG" data-lightbox="abc"><img src="20210501_001.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="blue">6月の営業カレンダー</span></h3>
+<a href="20210615_001.JPG" data-lightbox="abc"><img src="20210615_001.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="blue">ソフトドリンクと、かき氷も始まりまるそうです！</span></h3>
 <a href="20210331_001.JPG" data-lightbox="abc"><img src="20210331_001.JPG" alt="サンプル画像" width="900" /></a>
